@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Дз\RainlyWinter\bin\Debug\RainlyWinter.exe.config
+C:\Users\User\Desktop\Дз\RainlyWinter\bin\Debug\RainlyWinter.exe
+C:\Users\User\Desktop\Дз\RainlyWinter\bin\Debug\RainlyWinter.pdb
+C:\Users\User\Desktop\Дз\RainlyWinter\obj\Debug\RainlyWinter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Дз\RainlyWinter\obj\Debug\RainlyWinter.exe
+C:\Users\User\Desktop\Дз\RainlyWinter\obj\Debug\RainlyWinter.pdb
+C:\Users\User\Desktop\Дз\RainlyWinter\obj\Debug\RainlyWinter.csprojAssemblyReference.cache

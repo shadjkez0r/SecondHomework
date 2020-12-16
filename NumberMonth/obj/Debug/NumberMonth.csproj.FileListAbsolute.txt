@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Дз\NumberMonth\bin\Debug\NumberMonth.exe.config
+C:\Users\User\Desktop\Дз\NumberMonth\bin\Debug\NumberMonth.exe
+C:\Users\User\Desktop\Дз\NumberMonth\bin\Debug\NumberMonth.pdb
+C:\Users\User\Desktop\Дз\NumberMonth\obj\Debug\NumberMonth.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Дз\NumberMonth\obj\Debug\NumberMonth.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Дз\NumberMonth\obj\Debug\NumberMonth.exe
+C:\Users\User\Desktop\Дз\NumberMonth\obj\Debug\NumberMonth.pdb
